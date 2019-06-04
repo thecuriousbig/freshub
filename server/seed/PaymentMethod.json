@@ -1,0 +1,10 @@
+[
+  {
+    "ID" : 1,
+    "PaymentMethod": "credit and debit card"
+  },
+  {
+    "ID" : 2,
+    "PaymentMethod": "cash"
+  }
+]

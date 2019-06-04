@@ -1,0 +1,14 @@
+[
+  {
+    "DutyID": 1,
+    "DutyName": "Import"
+  },
+  {
+    "DutyID": 2,
+    "DutyName": "Export"
+  },
+  {
+    "DutyID": 3,
+    "DutyName": "Package"
+  }
+]

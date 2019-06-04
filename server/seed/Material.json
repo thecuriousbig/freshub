@@ -1,0 +1,140 @@
+[
+  {
+    "ID": 1,
+    "MaterialName": "broccoli",
+    "Unit": "Kilogram",
+    "Amount": 500
+  },
+  {
+    "ID": 2,
+    "MaterialName": "Salmon",
+    "Unit": "Kilogram",
+    "Amount": 150
+  },
+  {
+    "ID": 3,
+    "MaterialName": "Apple",
+    "Unit": "Kilogram",
+    "Amount": 600
+  },
+  {
+    "ID": 4,
+    "MaterialName": "Chicken",
+    "Unit": "Kilogram",
+    "Amount": 500
+  },
+  {
+    "ID": 5,
+    "MaterialName": "Kobe Beef",
+    "Unit": "Kilogram",
+    "Amount": 50
+  },
+  {
+    "ID": 6,
+    "MaterialName": "Pork",
+    "Unit": "Kilogram",
+    "Amount": 700
+  },
+  {
+    "ID": 7,
+    "MaterialName": "Tomato",
+    "Unit": "Kilogram",
+    "Amount": 500
+  },
+  {
+    "ID": 8,
+    "MaterialName": "Cabbage",
+    "Unit": "Kilogram",
+    "Amount": 400
+  },
+  {
+    "ID": 9,
+    "MaterialName": "Grape",
+    "Unit": "Kilogram",
+    "Amount": 200
+  },
+  {
+    "ID": 10,
+    "MaterialName": "Lemon",
+    "Unit": "Kilogram",
+    "Amount": 150
+  },
+  {
+    "ID": 11,
+    "MaterialName": "Oxtail",
+    "Unit": "Kilogram",
+    "Amount": 50
+  },
+  {
+    "ID": 12,
+    "MaterialName": "Bacon",
+    "Unit": "Kilogram",
+    "Amount": 120
+  },
+  {
+    "ID": 13,
+    "MaterialName": "Onion",
+    "Unit": "Kilogram",
+    "Amount": 300
+  },
+  {
+    "ID": 14,
+    "MaterialName": "Orange",
+    "Unit": "Kilogram",
+    "Amount": 400
+  },
+  {
+    "ID": 15,
+    "MaterialName": "Banana",
+    "Unit": "Kilogram",
+    "Amount": 500
+  },
+  {
+    "ID": 16,
+    "MaterialName": "Watermelon",
+    "Unit": "Kilogram",
+    "Amount": 350
+  },
+  {
+    "ID": 17,
+    "MaterialName": "Ham",
+    "Unit": "Kilogram",
+    "Amount": 200
+  },
+  {
+    "ID": 18,
+    "MaterialName": "Lettuce",
+    "Unit": "Kilogram",
+    "Amount": 250
+  },
+  {
+    "ID": 19,
+    "MaterialName": "Cucumber",
+    "Unit": "Kilogram",
+    "Amount": 300
+  },
+  {
+    "ID": 20,
+    "MaterialName": "Chili",
+    "Unit": "Kilogram",
+    "Amount": 500
+  },
+  {
+    "ID": 21,
+    "MaterialName": "Tuna",
+    "Unit": "Kilogram",
+    "Amount": 120
+  },
+  {
+    "ID": 22,
+    "MaterialName": "Shrimp",
+    "Unit": "Kilogram",
+    "Amount": 220
+  },
+  {
+    "ID": 23,
+    "MaterialName": "Egg",
+    "Unit": "Box",
+    "Amount": 200
+  }
+]

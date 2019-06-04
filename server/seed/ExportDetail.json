@@ -1,0 +1,170 @@
+[
+  {
+    "ExportID": 1,
+    "ProductID": 1,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 2,
+    "ProductID": 2,
+    "Amount": 5,
+    "Reason": null
+  },
+  {
+    "ExportID": 3,
+    "ProductID": 3,
+    "Amount": 5,
+    "Reason": null
+  },
+  {
+    "ExportID": 4,
+    "ProductID": 4,
+    "Amount": 10,
+    "Reason": null
+  },
+  {
+    "ExportID": 5,
+    "ProductID": 5,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 6,
+    "ProductID": 17,
+    "Amount": 5,
+    "Reason": null
+  },
+  {
+    "ExportID": 7,
+    "ProductID": 20,
+    "Amount": 20,
+    "Reason": null
+  },
+  {
+    "ExportID": 8,
+    "ProductID": 22,
+    "Amount": 20,
+    "Reason": null
+  },
+  {
+    "ExportID": 9,
+    "ProductID": 11,
+    "Amount": 1,
+    "Reason": null
+  },
+  {
+    "ExportID": 10,
+    "ProductID": 7,
+    "Amount": 30,
+    "Reason": null
+  },
+  {
+    "ExportID": 11,
+    "ProductID": 9,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 11,
+    "ProductID": 17,
+    "Amount": 3,
+    "Reason": null
+  },
+  {
+    "ExportID": 12,
+    "ProductID": 15,
+    "Amount": 9,
+    "Reason": null
+  },
+  {
+    "ExportID": 13,
+    "ProductID": 21,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 14,
+    "ProductID": 8,
+    "Amount": 10,
+    "Reason": null
+  },
+  {
+    "ExportID": 15,
+    "ProductID": 13,
+    "Amount": 30,
+    "Reason": null
+  },
+  {
+    "ExportID": 16,
+    "ProductID": 8,
+    "Amount": 5,
+    "Reason": null
+  },
+  {
+    "ExportID": 16,
+    "ProductID": 21,
+    "Amount": 1,
+    "Reason": null
+  },
+  {
+    "ExportID": 16,
+    "ProductID": 6,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 17,
+    "ProductID": 6,
+    "Amount": 10,
+    "Reason": null
+  },
+  {
+    "ExportID": 18,
+    "ProductID": 23,
+    "Amount": 20,
+    "Reason": null
+  },
+  {
+    "ExportID": 19,
+    "ProductID": 5,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 20,
+    "ProductID": 11,
+    "Amount": 1,
+    "Reason": null
+  },
+  {
+    "ExportID": 20,
+    "ProductID": 20,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 21,
+    "ProductID": 23,
+    "Amount": 5,
+    "Reason": null
+  },
+  {
+    "ExportID": 22,
+    "ProductID": 18,
+    "Amount": 3,
+    "Reason": null
+  },
+  {
+    "ExportID": 22,
+    "ProductID": 2,
+    "Amount": 2,
+    "Reason": null
+  },
+  {
+    "ExportID": 23,
+    "ProductID": 20,
+    "Amount": 30,
+    "Reason": null
+  }
+]

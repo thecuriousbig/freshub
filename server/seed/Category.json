@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Vegetable",
+    "Tax": 4
+  },
+  {
+    "Name": "Fruit",
+    "Tax": 20
+  },
+  {
+    "Name": "Meat",
+    "Tax": 10
+  },
+  {
+    "Name": "Egg",
+    "Tax" : 7
+  },
+  {
+    "Name": "Seafood",
+    "Tax": 12
+  }
+]

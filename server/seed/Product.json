@@ -1,0 +1,186 @@
+[
+  {
+    "ID" : 1,
+    "Name": "broccoli",
+    "CategoryName": "Vegetable",
+    "Unit": "Pack",
+    "Price": 50,
+    "Amount": 500
+  },
+  {
+    "ID" : 2,
+    "Name": "Salmon",
+    "CategoryName": "Seafood",
+    "Unit": "Pack",
+    "Price": 500,
+    "Amount": 1000
+  },
+  {
+    "ID" : 3,
+    "Name": "Apple",
+    "CategoryName": "Fruit",
+    "Unit": "Bucket",
+    "Price": 90,
+    "Amount": 1200
+  },
+  {
+    "ID" : 4,
+    "Name": "Chicken",
+    "CategoryName": "Meat",
+    "Unit": "Pack",
+    "Price": 200,
+    "Amount": 500
+  },
+  {
+    "ID" : 5,
+    "Name": "Kobe Beef",
+    "CategoryName": "Meat",
+    "Unit": "Pack",
+    "Price": 3100,
+    "Amount": 50
+  },
+  {
+    "ID" : 6,
+    "Name": "Pork",
+    "CategoryName": "Meat",
+    "Unit": "Pack",
+    "Price": 250,
+    "Amount": 350
+  },
+  {
+    "ID" : 7,
+    "Name": "Tomato",
+    "CategoryName": "Fruit",
+    "Unit": "Bag",
+    "Price": 150,
+    "Amount": 200
+  },
+  {
+    "ID" : 8,
+    "Name": "Cabbage",
+    "CategoryName": "Vegetable",
+    "Unit": "Bag",
+    "Price": 50,
+    "Amount": 250
+  },
+  {
+    "ID" : 9,
+    "Name": "Grape",
+    "CategoryName": "Fruit",
+    "Unit": "Bag",
+    "Price": 90,
+    "Amount": 150
+  },
+  {
+    "ID" : 10,
+    "Name": "Lemon",
+    "CategoryName": "Fruit",
+    "Unit": "Bag",
+    "Price": 70,
+    "Amount": 100
+  },
+  {
+    "ID" : 11,
+    "Name": "Oxtail",
+    "CategoryName": "Meat",
+    "Unit": "Pack",
+    "Price": 400,
+    "Amount": 50
+  },
+  {
+    "ID" : 12,
+    "Name": "Bacon",
+    "CategoryName": "Meat",
+    "Unit": "Pack",
+    "Price": 300,
+    "Amount": 100
+  },
+  {
+    "ID" : 13,
+    "Name": "Onion",
+    "CategoryName": "Vegetable",
+    "Unit": "Bag",
+    "Price": 30,
+    "Amount": 200
+  },
+  {
+    "ID" : 14,
+    "Name": "Orange",
+    "CategoryName": "Fruit",
+    "Unit": "Bag",
+    "Price": 80,
+    "Amount": 300
+  },
+  {
+    "ID" : 15,
+    "Name": "Banana",
+    "CategoryName": "Fruit",
+    "Unit": "Bag",
+    "Price": 100,
+    "Amount": 400
+  },
+  {
+    "ID" : 16,
+    "Name": "Watermelon",
+    "CategoryName": "Fruit",
+    "Unit": "Pack",
+    "Price": 80,
+    "Amount": 200
+  },
+  {
+    "ID" : 17,
+    "Name": "Ham",
+    "CategoryName": "Meat",
+    "Unit": "Pack",
+    "Price": 200,
+    "Amount": 150
+  },
+  {
+    "ID" : 18,
+    "Name": "Lettuce",
+    "CategoryName": "Vegetable",
+    "Unit": "Pack",
+    "Price": 50,
+    "Amount": 150
+  },
+  {
+    "ID" : 19,
+    "Name": "Cucumber",
+    "CategoryName": "Vegetable",
+    "Unit": "Pack",
+    "Price": 120,
+    "Amount": 200
+  },
+  {
+    "ID" : 20,
+    "Name": "Chili",
+    "CategoryName": "Vegetable",
+    "Unit": "Pack",
+    "Price": 50,
+    "Amount": 300
+  },
+  {
+    "ID" : 21,
+    "Name": "Tuna",
+    "CategoryName": "Seafood",
+    "Unit": "Pack",
+    "Price": 400,
+    "Amount": 50
+  },
+  {
+    "ID" : 22,
+    "Name": "Shrimp",
+    "CategoryName": "Seafood",
+    "Unit": "Pack",
+    "Price": 350,
+    "Amount": 100
+  },
+  {
+    "ID" : 23,
+    "Name": "Egg",
+    "CategoryName": "Egg",
+    "Unit": "Pack",
+    "Price": 120,
+    "Amount": 400
+  }
+]

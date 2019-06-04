@@ -1,0 +1,389 @@
+[
+  {
+    "ID": 1,
+    "StaffID": 1,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-25",
+    "DueDateTime": "2018-04-29",
+    "Status": "Finish"
+  },
+  {
+    "ID": 2,
+    "StaffID": 1,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-15",
+    "DueDateTime": "2018-04-20",
+    "Status": "Finish"
+  },
+  {
+    "ID": 3,
+    "StaffID": 1,
+    "DutyID": 1,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-15",
+    "DueDateTime": "2018-05-25",
+    "Status": "Finish"
+  },
+  {
+    "ID": 4,
+    "StaffID": 2,
+    "DutyID": 2,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-05",
+    "DueDateTime": "2018-05-25",
+    "Status": "Finish"
+  },
+  {
+    "ID": 5,
+    "StaffID": 2,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-06",
+    "DueDateTime": "2018-04-30",
+    "Status": "Finish"
+  },
+  {
+    "ID": 6,
+    "StaffID": 2,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-09",
+    "DueDateTime": "2018-04-20",
+    "Status": "Finish"
+  },
+  {
+    "ID": 7,
+    "StaffID": 2,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-10",
+    "DueDateTime": "2018-04-16",
+    "Status": "Finish"
+  },
+  {
+    "ID": 8,
+    "StaffID": 2,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-15",
+    "DueDateTime": "2018-04-25",
+    "Status": "Finish"
+  },
+  {
+    "ID": 9,
+    "StaffID": 2,
+    "DutyID": 3,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-25",
+    "DueDateTime": "2018-04-30",
+    "Status": "Finish"
+  },
+  {
+    "ID": 10,
+    "StaffID": 1,
+    "DutyID": 3,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-28",
+    "DueDateTime": "2018-05-03",
+    "Status": "Finish"
+  },
+  {
+    "ID": 11,
+    "StaffID": 9,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-03-28",
+    "DueDateTime": "2018-04-04",
+    "Status": "Finish"
+  },
+  {
+    "ID": 12,
+    "StaffID": 8,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-08",
+    "DueDateTime": "2018-04-11",
+    "Status": "Finish"
+  },
+  {
+    "ID": 13,
+    "StaffID": 11,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-09",
+    "DueDateTime": "2018-04-12",
+    "Status": "Finish"
+  },
+  {
+    "ID": 14,
+    "StaffID": 12,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-09",
+    "DueDateTime": "2018-04-13",
+    "Status": "Finish"
+  },
+  {
+    "ID": 15,
+    "StaffID": 5,
+    "DutyID": 2,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-09",
+    "DueDateTime": "2018-04-14",
+    "Status": "Finish"
+  },
+  {
+    "ID": 16,
+    "StaffID": 12,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-12",
+    "DueDateTime": "2018-04-19",
+    "Status": "Finish"
+  },
+  {
+    "ID": 17,
+    "StaffID": 7,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-13",
+    "DueDateTime": "2018-04-18",
+    "Status": "Finish"
+  },
+  {
+    "ID": 18,
+    "StaffID": 2,
+    "DutyID": 2,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-20",
+    "DueDateTime": "2018-04-24",
+    "Status": "Finish"
+  },
+  {
+    "ID": 19,
+    "StaffID": 5,
+    "DutyID": 2,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-21",
+    "DueDateTime": "2018-04-25",
+    "Status": "Finish"
+  },
+  {
+    "ID": 20,
+    "StaffID": 11,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-22",
+    "DueDateTime": "2018-04-26",
+    "Status": "Finish"
+  },
+  {
+    "ID": 21,
+    "StaffID": 12,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-17",
+    "DueDateTime": "2018-04-25",
+    "Status": "Finish"
+  },
+  {
+    "ID": 22,
+    "StaffID": 5,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-20",
+    "DueDateTime": "2018-04-25",
+    "Status": "Finish"
+  },
+  {
+    "ID": 23,
+    "StaffID": 5,
+    "DutyID": 1,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-23",
+    "DueDateTime": "2018-04-30",
+    "Status": "Finish"
+  },
+  {
+    "ID": 24,
+    "StaffID": 11,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-28",
+    "DueDateTime": "2018-04-30",
+    "Status": "Finish"
+  },
+  {
+    "ID": 25,
+    "StaffID": 5,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-04-28",
+    "DueDateTime": "2018-05-03",
+    "Status": "Finish"
+  },
+  {
+    "ID": 26,
+    "StaffID": 12,
+    "DutyID": 1,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-30",
+    "DueDateTime": "2018-05-03",
+    "Status": "Finish"
+  },
+  {
+    "ID": 27,
+    "StaffID": 8,
+    "DutyID": 1,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-04-30",
+    "DueDateTime": "2018-05-03",
+    "Status": "Finish"
+  },
+  {
+    "ID": 28,
+    "StaffID": 2,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-02",
+    "DueDateTime": "2018-05-18",
+    "Status": "Finish"
+  },
+  {
+    "ID": 29,
+    "StaffID": 11,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-02",
+    "DueDateTime": "2018-05-15",
+    "Status": "Finish"
+  },
+  {
+    "ID": 30,
+    "StaffID": 5,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-08",
+    "DueDateTime": "2018-05-19",
+    "Status": "Finish"
+  },
+  {
+    "ID": 31,
+    "StaffID": 7,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-12",
+    "DueDateTime": "2018-05-20",
+    "Status": "Finish"
+  },
+  {
+    "ID": 32,
+    "StaffID": 12,
+    "DutyID": 2,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-17",
+    "DueDateTime": "2018-05-23",
+    "Status": "Finish"
+  },
+  {
+    "ID": 33,
+    "StaffID": 8,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-25",
+    "DueDateTime": "2018-05-29",
+    "Status": "Finish"
+  },
+  {
+    "ID": 34,
+    "StaffID": 11,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-25",
+    "DueDateTime": "2018-05-27",
+    "Status": "Finish"
+  },
+  {
+    "ID": 35,
+    "StaffID": 9,
+    "DutyID": 2,
+    "ManagerID": 4,
+    "OrderDateTime": "2018-05-28",
+    "DueDateTime": "2018-05-30",
+    "Status": "Finish"
+  },
+  {
+    "ID": 36,
+    "StaffID": 2,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-02",
+    "DueDateTime": "2018-05-14",
+    "Status": "Finish"
+  },
+  {
+    "ID": 37,
+    "StaffID": 11,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-09",
+    "DueDateTime": "2018-05-14",
+    "Status": "Finish"
+  },
+  {
+    "ID": 38,
+    "StaffID": 7,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-09",
+    "DueDateTime": "2018-05-23",
+    "Status": "Finish"
+  },
+  {
+    "ID": 39,
+    "StaffID": 5,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-13",
+    "DueDateTime": "2018-05-20",
+    "Status": "Finish"
+  },
+  {
+    "ID": 40,
+    "StaffID": 9,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-24",
+    "DueDateTime": "2018-05-28",
+    "Status": "Finish"
+  },
+  {
+    "ID": 41,
+    "StaffID": 12,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-28",
+    "DueDateTime": "2018-05-30",
+    "Status": "Finish"
+  },
+  {
+    "ID": 42,
+    "StaffID": 5,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-28",
+    "DueDateTime": "2018-06-02",
+    "Status": "Finish"
+  },
+  {
+    "ID": 43,
+    "StaffID": 2,
+    "DutyID": 1,
+    "ManagerID": 6,
+    "OrderDateTime": "2018-05-28",
+    "DueDateTime": "2018-06-01",
+    "Status": "Finish"
+  }
+]

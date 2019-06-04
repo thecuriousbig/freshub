@@ -1,0 +1,117 @@
+[
+  {
+    "ProductID": 1,
+    "MaterialID": 1,
+    "MaterialAmount": 2
+  },
+  {
+    "ProductID": 2,
+    "MaterialID": 2,
+    "MaterialAmount": 1.5
+  },
+  {
+    "ProductID": 3,
+    "MaterialID": 3,
+    "MaterialAmount": 3
+  },
+  {
+    "ProductID": 4,
+    "MaterialID": 4,
+    "MaterialAmount": 2
+  },
+  {
+    "ProductID": 5,
+    "MaterialID": 5,
+    "MaterialAmount": 1
+  },
+  {
+    "ProductID": 6,
+    "MaterialID": 6,
+    "MaterialAmount": 2
+  },
+  {
+    "ProductID": 7,
+    "MaterialID": 7,
+    "MaterialAmount": 1.5
+  },
+  {
+    "ProductID": 8,
+    "MaterialID": 8,
+    "MaterialAmount": 1
+  },
+  {
+    "ProductID": 9,
+    "MaterialID": 9,
+    "MaterialAmount": 1.5
+  },
+  {
+    "ProductID": 10,
+    "MaterialID": 10,
+    "MaterialAmount": 2
+  },
+  {
+    "ProductID": 11,
+    "MaterialID": 11,
+    "MaterialAmount": 1
+  },
+  {
+    "ProductID": 12,
+    "MaterialID": 12,
+    "MaterialAmount": 3
+  },
+  {
+    "ProductID": 13,
+    "MaterialID": 13,
+    "MaterialAmount": 2.5
+  },
+  {
+    "ProductID": 14,
+    "MaterialID": 14,
+    "MaterialAmount": 2
+  },
+  {
+    "ProductID": 15,
+    "MaterialID": 15,
+    "MaterialAmount": 1.5
+  },
+  {
+    "ProductID": 16,
+    "MaterialID": 16,
+    "MaterialAmount": 1
+  },
+  {
+    "ProductID": 17,
+    "MaterialID": 17,
+    "MaterialAmount": 2.5
+  },
+  {
+    "ProductID": 18,
+    "MaterialID": 18,
+    "MaterialAmount": 2
+  },
+  {
+    "ProductID": 19,
+    "MaterialID": 19,
+    "MaterialAmount": 1.5
+  },
+  {
+    "ProductID": 20,
+    "MaterialID": 20,
+    "MaterialAmount": 2.5
+  },
+  {
+    "ProductID": 21,
+    "MaterialID": 21,
+    "MaterialAmount": 1
+  },
+  {
+    "ProductID": 22,
+    "MaterialID": 22,
+    "MaterialAmount": 1
+  },
+  {
+    "ProductID": 23,
+    "MaterialID": 23,
+    "MaterialAmount": 0.25
+  }
+]

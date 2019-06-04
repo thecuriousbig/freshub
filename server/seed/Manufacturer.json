@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "ManufacturerName": "CPF",
+    "Address": "313 Si Lom, Khwaeng Silom, Khet Bang Rak, Krung Thep Maha Nakhon 10500",
+    "TelNo": "0824886328"
+  },
+  {
+    "ID": 2,
+    "ManufacturerName": "Betagro group",
+    "Address": "323 ซอย วิภาวดีรังสิต Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210",
+    "TelNo": "0825559863"
+  },
+  {
+    "ID": 3,
+    "ManufacturerName": "Yan Wal Yun",
+    "Address": "767 ถนน วัดไผ่เงิน ซอย วัดไผ่เงิน Khwaeng Thung Wat Don, Khet Sathon, Krung Thep Maha Nakhon 10120",
+    "TelNo": "0827796358"
+  },
+  {
+    "ID": 4,
+    "ManufacturerName": "Cargill Meat Solutions Corp.",
+    "Address": "Cargill, Incorporated PO Box 9300 Minneapolis, MN 55440-9300 United States",
+    "TelNo": "0355896348"
+  },
+  {
+    "ID": 5,
+    "ManufacturerName": "Jagota (Thailand).",
+    "Address": "65 Sukhumvit Rd, Khwaeng Phra Khanong, Khet Khlong Toei, Krung Thep Maha Nakhon 10110",
+    "TelNo": "0843658200"
+  },
+  {
+    "ID": 6,
+    "ManufacturerName": "City Fresh Fruit Co.Ltd",
+    "Address": "8 ถนน กาญจนาภิเษก เขตบางบอน แขวงบางบอน Krung Thep Maha Nakhon 10150",
+    "TelNo": "0856697532"
+  },
+  {
+    "ID": 7,
+    "ManufacturerName": "Vita Fresh Co.Ltd",
+    "Address": "61/179-180 พระราม 9 ชอย 7 พระราม 9 Huai Khwang, Bangkok 10310",
+    "TelNo": "0889657423"
+  },
+  {
+    "ID": 8,
+    "ManufacturerName": "Choice Foods Thailand Limited",
+    "Address": " 959 Sukhumvit 71 Rd, Krung Thep Maha Nakhon, จังหวัด กรุงเทพมหานคร 10110",
+    "TelNo": "0896647236"
+  },
+  {
+    "ID": 9,
+    "ManufacturerName": "Thai Shing Ye Inter-Marketing Co., Ltd.",
+    "Address": "41 Chan 16 Road Section 2 Tung Wat Don Sathon, Bangkok 10120",
+    "TelNo": "0859976324"
+  },
+  {
+    "ID": 10,
+    "ManufacturerName": "Aim Thai Intertrade (2001) Co., Ltd.",
+    "Address": "88 Bang Waek Rd, Khwaeng Khlong Khwang, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160",
+    "TelNo": "0806697416"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "WorkOrderID": 9,
+    "ProductID": 1,
+    "Amount": 200
+  },
+  {
+    "WorkOrderID": 10,
+    "ProductID": 2,
+    "Amount": 100
+  }
+]

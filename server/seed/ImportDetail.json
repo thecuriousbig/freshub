@@ -1,0 +1,110 @@
+[
+  {
+    "ImportID": 1,
+    "MaterialID": 4,
+    "Amount": 200,
+    "Reason": null
+  },
+  {
+    "ImportID": 2,
+    "MaterialID": 12,
+    "Amount": 50,
+    "Reason": "One Package Broken"
+  },
+  {
+    "ImportID": 3,
+    "MaterialID": 20,
+    "Amount": 300,
+    "Reason": null
+  },
+  {
+    "ImportID": 4,
+    "MaterialID": 19,
+    "Amount": 100,
+    "Reason": null
+  },
+  {
+    "ImportID": 5,
+    "MaterialID": 17,
+    "Amount": 200,
+    "Reason": null
+  },
+  {
+    "ImportID": 6,
+    "MaterialID": 9,
+    "Amount": 150,
+    "Reason": null
+  },
+  {
+    "ImportID": 7,
+    "MaterialID": 21,
+    "Amount": 50,
+    "Reason": null
+  },
+  {
+    "ImportID": 8,
+    "MaterialID": 16,
+    "Amount": 100,
+    "Reason": null
+  },
+  {
+    "ImportID": 9,
+    "MaterialID": 8,
+    "Amount": 300,
+    "Reason": null
+  },
+  {
+    "ImportID": 10,
+    "MaterialID": 6,
+    "Amount": 200,
+    "Reason": null
+  },
+  {
+    "ImportID": 11,
+    "MaterialID": 11,
+    "Amount": 100,
+    "Reason": null
+  },
+  {
+    "ImportID": 12,
+    "MaterialID": 17,
+    "Amount": 300,
+    "Reason": null
+  },
+  {
+    "ImportID": 13,
+    "MaterialID": 9,
+    "Amount": 400,
+    "Reason": null
+  },
+  {
+    "ImportID": 14,
+    "MaterialID": 15,
+    "Amount": 300,
+    "Reason": null
+  },
+  {
+    "ImportID": 15,
+    "MaterialID": 10,
+    "Amount": 250,
+    "Reason": null
+  },
+  {
+    "ImportID": 16,
+    "MaterialID": 21,
+    "Amount": 100,
+    "Reason": null
+  },
+  {
+    "ImportID": 17,
+    "MaterialID": 6,
+    "Amount": 400,
+    "Reason": null
+  },
+  {
+    "ImportID": 18,
+    "MaterialID": 22,
+    "Amount": 100,
+    "Reason": null
+  }
+]

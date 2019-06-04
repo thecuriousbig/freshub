@@ -1,0 +1,170 @@
+[
+  {
+    "ProductID": 1,
+    "PurchaseOrderID": 1,
+    "Amount": 2,
+    "Cost" : 100 
+  },
+  {
+    "ProductID": 2,
+    "PurchaseOrderID": 2,
+    "Amount": 5,
+    "Cost" : 2500
+  },
+  {
+    "ProductID": 3,
+    "PurchaseOrderID": 3,
+    "Amount": 5,
+    "Cost" : 200
+  },
+  {
+    "ProductID": 4,
+    "PurchaseOrderID": 4,
+    "Amount": 10,
+    "Cost" : 2000
+  },
+  {
+    "ProductID": 5,
+    "PurchaseOrderID": 5,
+    "Amount": 2,
+    "Cost" : 6200
+  },
+  {
+    "ProductID": 17,
+    "PurchaseOrderID": 6,
+    "Amount": 5,
+    "Cost" : 1000
+  },
+  {
+    "ProductID": 20,
+    "PurchaseOrderID": 7,
+    "Amount": 20,
+    "Cost" : 1000
+  },
+  {
+    "ProductID": 22,
+    "PurchaseOrderID": 8,
+    "Amount": 20,
+    "Cost" : 7000
+  },
+  {
+    "ProductID": 11,
+    "PurchaseOrderID": 9,
+    "Amount": 1,
+    "Cost" : 400
+  },
+  {
+    "ProductID": 7,
+    "PurchaseOrderID": 10,
+    "Amount": 30,
+    "Cost" : 4500
+  },
+  {
+    "ProductID": 9,
+    "PurchaseOrderID": 11,
+    "Amount": 2,
+    "Cost" : 180
+  },
+  {
+    "ProductID": 17,
+    "PurchaseOrderID": 11,
+    "Amount": 3,
+    "Cost" : 600
+  },
+  {
+    "ProductID": 15,
+    "PurchaseOrderID": 12,
+    "Amount": 9,
+    "Cost" : 900
+  },
+  {
+    "ProductID": 21,
+    "PurchaseOrderID": 13,
+    "Amount": 2,
+    "Cost" : 800
+  },
+  {
+    "ProductID": 8,
+    "PurchaseOrderID": 14,
+    "Amount": 10,
+    "Cost" : 500
+  },
+  {
+    "ProductID": 13,
+    "PurchaseOrderID": 15,
+    "Amount": 30,
+    "Cost" : 900
+  },
+  {
+    "ProductID": 8,
+    "PurchaseOrderID": 16,
+    "Amount": 5,
+    "Cost" : 250
+  },
+  {
+    "ProductID": 21,
+    "PurchaseOrderID": 16,
+    "Amount": 1,
+    "Cost" : 400
+  },
+  {
+    "ProductID": 6,
+    "PurchaseOrderID": 16,
+    "Amount": 2,
+    "Cost" : 500
+  },
+  {
+    "ProductID": 6,
+    "PurchaseOrderID": 17,
+    "Amount": 10,
+    "Cost" : 3500
+  },
+  {
+    "ProductID": 23,
+    "PurchaseOrderID": 18,
+    "Amount": 20,
+    "Cost" : 2400
+  },
+  {
+    "ProductID": 5,
+    "PurchaseOrderID": 19,
+    "Amount": 2,
+    "Cost" : 6200
+  },
+  {
+    "ProductID": 11,
+    "PurchaseOrderID": 20,
+    "Amount": 1,
+    "Cost" : 400
+  },
+  {
+    "ProductID": 20,
+    "PurchaseOrderID": 20,
+    "Amount": 2,
+    "Cost" : 100
+  },
+  {
+    "ProductID": 23,
+    "PurchaseOrderID": 21,
+    "Amount": 5,
+    "Cost" : 600
+  },
+  {
+    "ProductID": 18,
+    "PurchaseOrderID":22 ,
+    "Amount": 3,
+    "Cost" : 150
+  },
+  {
+    "ProductID": 2,
+    "PurchaseOrderID":22 ,
+    "Amount": 2,
+    "Cost" : 1000
+  },
+  {
+    "ProductID": 20,
+    "PurchaseOrderID":23 ,
+    "Amount": 30,
+    "Cost" : 1500
+  }
+]
